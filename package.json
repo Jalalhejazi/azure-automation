@@ -1,0 +1,20 @@
+{
+  "name": "azure-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "powershell ./main.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalalhejazi/azure-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jalalhejazi/azure-automation/issues"
+  },
+  "homepage": "https://github.com/Jalalhejazi/azure-automation#readme"
+}
